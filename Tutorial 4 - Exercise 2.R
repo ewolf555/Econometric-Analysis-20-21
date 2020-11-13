@@ -3,7 +3,7 @@ library(lmtest)
 library(nlme)
 library(sandwich)
 
-setwd("C:/Users/Elias Wolf/Documents/Uni/Masterkurs Ökonometrie 2020-21/Tutorials/Fourth Exercise Sheet")
+setwd("...")
 data_phillips <- read.csv("phillips.csv")
 
 

@@ -3,7 +3,7 @@ library(readxl)
 library(car)
 
 # Import data
-ex_12 <- read_excel("~/Uni/Masterkurs Ökonometrie 2019-20/Übungen/Sechste Übung/ex_12.xlsx")
+ex_12 <- read_excel("...")
 
 # OLS Estimation 
 model_ols <- lm(INFLAT ~ MONEY + OUTPUT, data = ex_12)

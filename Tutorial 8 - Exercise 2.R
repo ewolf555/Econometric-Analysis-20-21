@@ -1,7 +1,7 @@
 library(readr)
 library(systemfit)
 
-setwd("~/Uni/Masterkurs Ökonometrie 2019-20/Übungen/Achte Übung")
+setwd("...")
 
 demand_supply_data <- read_csv("ds_data.csv")
 

@@ -1,6 +1,6 @@
 library(tseries)
 
-setwd("C:/Users/Elias Wolf/Documents/Uni/Masterkurs Ökonometrie 2020-21/Tutorials/Third Exercise Sheet")
+setwd("...")
 # Quick example for inflated variance
 
 data_t_test <- read.csv("t-test_1.csv")
